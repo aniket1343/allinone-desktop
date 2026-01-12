@@ -67,7 +67,7 @@ The application comes with **44+ tools** pre-installed across various categories
 
 ### For Users
 To download the latest version of the application:
-1. Go to the [Releases](https://github.com/aniket1343/allinone-desktop/releasess) page.
+1. Go to the [Releases](https://github.com/aniket1343/allinone-desktop/releases) page.
 2. Download the installer for your operating system:
    - **Windows:** `Allinone-Setup-1.0.2.exe`
 3. Run the installer and you're good to go!
