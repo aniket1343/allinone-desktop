@@ -70,8 +70,6 @@ To download the latest version of the application:
 1. Go to the [Releases](https://github.com/yourusername/allinone/releases) page.
 2. Download the installer for your operating system:
    - **Windows:** `Allinone-Setup-1.0.2.exe`
-   - **macOS:** `Allinone-1.0.2.dmg`
-   - **Linux:** `Allinone-1.0.2.AppImage`
 3. Run the installer and you're good to go!
 
 ### For Developers
